@@ -8,7 +8,7 @@
     margin: 10px;
   }
 
-@mixin p-style () {
+@mixin p-style {
     color: $TextColorFour;
     font-style: italic;
     background-color: lightblue;

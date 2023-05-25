@@ -9,3 +9,6 @@ npm install
 //////// To do:
 
 Tyr to create a mixin and apply it
+
+Mixin title-h3
+Mixin p-style
