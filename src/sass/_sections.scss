@@ -7,6 +7,9 @@ main{
     justify-content: space-evenly;
     color: $TextColorOne;
     #section-two{
-        color: $TextColortwo;
+        background-color: $TextColorOne;
+    }
+    #section-four {
+        background-color: $TextColorOne;
     }
 }

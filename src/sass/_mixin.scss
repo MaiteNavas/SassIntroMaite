@@ -1,6 +1,16 @@
+@import 'variables';
+
 @mixin title-h3 {
-    color: red;
+    color: $TextColortwo;
     font-size: 25px;
     font-weight: bold;
-    border: 1px solid blue;
+    border: 1px solid $TextColorThree;
+    margin: 10px;
   }
+
+@mixin p-style () {
+    color: $TextColorFour;
+    font-style: italic;
+    background-color: lightblue;
+    padding: 20px;
+}
